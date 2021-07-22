@@ -1,0 +1,21 @@
+.bottom__wrapper {
+
+}
+.bottom .text {
+    position: relative;
+    text-align: left;
+}
+.bottom .text::before {
+    display: block;
+    content: '';
+    width: 1rem;
+    height: 1rem;
+    left: -3rem;
+    top: 0.5rem;
+    background-color: var(--sub-bg-color);
+    border-radius: 50%;
+    position: absolute;
+}
+@media screen and (min-width: 1024px) {
+  
+}

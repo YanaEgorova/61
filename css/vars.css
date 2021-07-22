@@ -1,0 +1,13 @@
+:root {
+    --main-bg-color: #fff;
+    --sub-bg-color: #000;
+    --sub-text-color: #fff;
+    --accent-color: red;
+
+    --main-text-color: #000;
+
+    --main-font: 'Raleway';
+    --title-font: 'Zen Tokyo Zoo';
+    
+    font-size: 62.5%;
+}
